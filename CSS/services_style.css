@@ -71,3 +71,19 @@ p{
 .card.card_body img{
     margin-right: 20 px;
 }
+
+aside > img{
+    display: flex;
+    float: left;
+    justify-content: start;
+    margin-right: 20%;
+    height: 250px;
+    width: 250px;
+    
+}
+
+.card-text{
+    justify-content: right;
+    align-items: right;
+    padding: 10px;
+}
