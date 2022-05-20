@@ -47,6 +47,16 @@ p{
     text-align: justify;
 
 }
+
+.card{
+    border: 1px solid #ddd;
+    box-shadow: 0 5px 50px rgba(0,0,0,0.15);
+    height: auto;
+    margin: 50px 50px;
+    padding: 5%;
+}
+
+
 .card.card_head {
     display: flex;
     justify-content: center;
