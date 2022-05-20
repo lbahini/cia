@@ -48,3 +48,12 @@ p{
     display: flex;
     justify-content: center;
 }
+
+.form-cont{
+    text-align: center;
+}
+
+
+.form-cont > form{
+    display: inline-block;
+}
