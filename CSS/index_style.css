@@ -49,14 +49,21 @@ p{
     min-width: 400px;
     width: auto;
     box-shadow: 0 5px 50px rgba(0,0,0,0.15);
-    cursor: pointer;
     margin: 100px auto;
     border: 1px solid #ddd;
 }
 
+
+tr:first-of-type{
+    background-color: #707070;
+    color: white;
+}
+
+
 tr {
     background-color: white;
     color: black;
+    cursor: pointer;
     text-align: left;
 }
 
