@@ -85,3 +85,12 @@ tr:nth-child(event){
     display: flex;
     justify-content: center;
 }
+
+.text-default{
+    margin: 10%;
+}
+
+.text-default > p {
+    
+    text-align: center !important;
+}
