@@ -59,6 +59,10 @@ tr:first-of-type{
     color: white;
 }
 
+tr:nth-child(even){
+    background-color: #dfd8d8;
+    color: black;
+}
 
 tr {
     background-color: white;
