@@ -65,7 +65,7 @@ tr:nth-child(even){
 }
 
 tr {
-    background-color: white;
+    background-color: rgb(217, 217, 217);
     color: black;
     cursor: pointer;
     text-align: left;
